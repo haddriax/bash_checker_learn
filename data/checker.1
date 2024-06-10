@@ -1,0 +1,70 @@
+.TH CHECKER 1 "January 16, 2024" "Version 1.0" "checker.sh"
+.SH NAME
+checker.sh \- Tool for checking Bash scripts
+
+.SH SYNOPSIS
+\fB./checker.sh\fR [\fI-options\fR] [\fIarguments\fR]
+
+.SH DESCRIPTION
+The \fBchecker\fR script is a tool designed to check Bash scripts. It provides features such as checking the name, comments and detecting plagiarism.
+
+.SH OPTIONS
+.TP
+\fB-a \fIDIRECTORY\fR
+Option that performs all checking.
+.TP
+\fB-b \fIDIRECTORY\fR
+Option that display the results of checks and show the number of point losed by student.
+.TP
+\fB-c \fIDIRECTORY\fR
+Option that performs comment checking in the specified directory.
+.TP
+\fB-f \fIDIRECTORY\fR
+Path to the file that contain the logs.
+.TP
+\fB-h \fIDIRECTORY\fR
+Option that provide information about the usages of the scripte option (wich is like this man page).
+.TP
+\fB-i \fIDIRECTORY\fR
+Option that install the man page (but if you are reading this, you probably already done it).
+.TP
+\fB-n \fIDIRECTORY\fR
+Option that performs name checking.
+.TP
+\fB-s \fIDIRECTORY\fR
+Option that crypt data results to improve security.
+.TP
+\fB-p\fR
+Option that implements plagiarism detection using the Levenshtein distance.
+.TP
+\fB-r \fIDIRECTORY\fR
+Path to the directory exported from Moodle containing all deliverables.
+
+.SH EXAMPLES
+Examples of using \fBchecker\fR.
+
+.B checker -r /path/to/directory -f path/to/log/file -a
+
+.SH SEE ALSO
+Other related manual pages.
+
+.SH AUTHOR
+GUILLET Lucas, GARNIER Gaël
+
+.SH NOTES
+It would have be better and easyer if coded in any other language.
+
+.SH BUGS
+There is probably several bugs in the code, Gotta Catch Them All !
+
+.SH COPYRIGHT
+Do whatever you want it doesn't bother us at all.
+
+.SH VERSION
+V3.1.56.
+
+.SH ACKNOWLEDGEMENTS
+We specialy thanks M. AUBIN for forcing us to create this project and hope to have a good grade
+
+.SH DATE
+01/18/2024

@@ -1,0 +1,24 @@
+Warning: [BAROS Valentin] -20 Directory not found
+Warning: [BELLOUTI Elias] -20 Directory not found
+Warning: [BERGER Simon] -20 File script-ber-sim.sh not found in ../data/MoodleDir/BERGER Simon_251614_assignsubmission_file
+Warning: [CHRETIEN Nathan] 0/1 functions commented => grade=0
+Warning: [COIGNAC Antoine] 0/4 functions commented => grade=0
+Warning: [FAUTRAT Mathys] 0/1 functions commented => grade=0
+Warning: [GALOPIN Antoine] 0/1 functions commented => grade=0
+Warning: [GUESNEY Logan] -20 File script-gue-log.sh not found in ../data/MoodleDir/GUESNEY Logan_251625_assignsubmission_file
+Warning: [KAMA Mareme] 0/0 functions commented => grade=0
+Warning: [LATAPY Jules] 0/2 functions commented => grade=0
+Warning: [LE POULCHASSE Gwenaelle] -20 File script-le -gwe.sh not found in ../data/MoodleDir/LE POULCHASSE Gwenaelle_251629_assignsubmission_file
+Warning: [LERAY Emilien] 0/1 functions commented => grade=0
+Warning: [MAILLARD Kylian] -20 File script-mai-kyl.sh not found in ../data/MoodleDir/MAILLARD Kylian_251628_assignsubmission_file
+Warning: [MANCINI Noemie] 0/1 functions commented => grade=0
+Warning: [MAULAVE Corentin] 0/0 functions commented => grade=0
+Warning: [MOREIRA VIDAL PEREIRA Gustavo] 0/4 functions commented => grade=0
+Warning: [MVOGO Marcellin Vianney] -20 Directory not found
+Warning: [NGOM Ndeye Anta] -20 File script-ngo-nde.sh not found in ../data/MoodleDir/NGOM Ndeye Anta_251623_assignsubmission_file
+Warning: [PIHAN Alexis] 0/2 functions commented => grade=0
+Warning: [RAMIANDRISOA Tsitohaina] 0/1 functions commented => grade=0
+Warning: [RENAULT Maceo] 3/5 functions commented => grade=6
+Warning: [SERVANT Louison] 0/1 functions commented => grade=0
+Warning: [TESSIER Theo] 0/0 functions commented => grade=0
+Warning: [ZWILLER Christophe] 0/4 functions commented => grade=0

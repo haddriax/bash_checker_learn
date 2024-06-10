@@ -1,0 +1,5 @@
+path_log="../logs/journal.txt"
+path_f="../data/"
+path_r="../data/MoodleDir"
+path_csv="../data/Liste_etudiants.csv"
+path_man="../data/checker.1"
